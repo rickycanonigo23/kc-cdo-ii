@@ -40,6 +40,7 @@ Display the schedule with the time elapsed today based on their target date.
 
 - [dioame-jade-rendon](https://github.com/dioame)
 - [jolan-owang](https://github.com/baynte)
+- [kim-hidalgo](https://github.com/hidalgokimjohn)
 
 
 
@@ -48,4 +49,6 @@ Display the schedule with the time elapsed today based on their target date.
 - [Bacon](https://github.com/kib2k17)
 - [Canonigo](https://github.com/rickycanonigo)
 - [Magno](https://github.com/edmund-magno)
+- [Balino](https://github.com/itsDoofen)
+  
 
