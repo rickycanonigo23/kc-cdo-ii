@@ -29,6 +29,13 @@ Display the schedule with the time elapsed today based on their target date.
 
 - Show the `total count` of data collected.
 
+## Implementation Criteria
+- `Backend: 30%`
+- `Frontend: 30%`
+- `SQL: 30%`
+- `Git: 10%`
+
+
 ## Authors & Evaluators
 
 - [dioame-jade-rendon](https://github.com/dioame)
